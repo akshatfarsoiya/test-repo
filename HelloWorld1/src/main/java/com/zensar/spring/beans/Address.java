@@ -7,7 +7,6 @@ public class Address {
 	private int pincode;
 	private String state;
 	
-	
 	public Address() {
 		super();
 	}
